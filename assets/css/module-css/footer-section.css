@@ -53,6 +53,7 @@
 }
 .single-footer-widget .our-company-info .footer-logo{
     position: relative;
+    width: 50%;
     display: block;
     margin-bottom: 32px;
 }

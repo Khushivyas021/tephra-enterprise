@@ -66,6 +66,7 @@
     padding: 25px 0 25px;
 }
 .sticky-header .logo a{
+    width: 55%;
     position: relative;
     display: inline-block;
 }
@@ -322,6 +323,8 @@
     display: block;
 }
 .header-left .logo {
+    width: 60%;
+    height: 73px;
     position: relative;
     display: block;
 }
